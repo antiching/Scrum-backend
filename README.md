@@ -40,6 +40,6 @@ npm run dev
 ```
 
 
-與[scrum-fe](https://github.com/antiching/Scrum-frontend "Title")連動
+與前端[scrum-fe](https://github.com/antiching/Scrum-frontend "Title")連動
 
 **注意：**  請於 資料夾**scrum-be** 及 **scrum-fe** 同層建立資料夾命名為 **sessions**
